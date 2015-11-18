@@ -1,17 +1,43 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="Console.TableResult.Reload" />
   <action id="CopyElement" />
-  <action id="Debugger.ResumeThread">
-    <keyboard-shortcut first-keystroke="f5" />
+  <action id="Debugger.AddToWatch">
+    <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="Debugger.Tree.AddToWatches">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="meta f7" />
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
   <action id="ForceStepInto">
     <keyboard-shortcut first-keystroke="shift f11" />
   </action>
@@ -31,6 +57,9 @@
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
+  <action id="RemoteServers.ChooseServerDeploymentWithDebug">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
@@ -38,10 +67,10 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Replace" />
-  <action id="Run" />
-  <action id="Servers.DeployWithDebug">
+  <action id="Resume">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="Run" />
   <action id="ShowBookmarks" />
   <action id="SmartStepInto">
     <keyboard-shortcut first-keystroke="shift f7" />
@@ -72,13 +101,14 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="ToggleBookmark" />
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="meta f8" />
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="UML.ApplyCurrentLayout" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
-  </action>
-  <action id="XDebugger.Inspect">
-    <keyboard-shortcut first-keystroke="meta e" />
   </action>
   <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
 </keymap>
