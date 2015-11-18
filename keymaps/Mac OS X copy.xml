@@ -21,9 +21,15 @@
   <action id="GotoNextError" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
+  <action id="QuickChangeScheme" />
   <action id="RecentFiles" />
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
