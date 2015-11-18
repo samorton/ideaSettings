@@ -1,11 +1,8 @@
 <application>
   <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern="rolesPermissions" type="JSON" />
-      <mapping pattern="acceptedHostsList" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="bdy" type="SQL" />
-      <mapping ext="spc" type="SQL" />
+      <mapping pattern="fsdfds" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
