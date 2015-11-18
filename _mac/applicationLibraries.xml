@@ -1,0 +1,47 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7.9 virtualenv at ~/deepdream interpreter library">
+      <CLASSES>
+        <root url="jar:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/setuptools-11.3.1-py2.7.egg!/" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/pip-6.0.6-py2.7.egg" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/setuptools-11.3.1-py2.7.egg!/" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/pip-6.0.6-py2.7.egg" />
+        <root url="file://$USER_HOME$/deepdream/lib/python2.7" />
+        <root url="file://$USER_HOME$/deepdream/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/deepdream/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/wx-3.0-osx_cocoa" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/wx-3.0-osx_cocoa" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/1300370370" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/setuptools-11.3.1-py2.7.egg!/" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/pip-6.0.6-py2.7.egg" />
+        <root url="jar:///usr/local/lib/python2.7/site-packages/setuptools-11.3.1-py2.7.egg!/" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/pip-6.0.6-py2.7.egg" />
+        <root url="file://$USER_HOME$/deepdream/lib/python2.7" />
+        <root url="file://$USER_HOME$/deepdream/lib/python2.7/lib-dynload" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+        <root url="file://$USER_HOME$/deepdream/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/Cellar/python/2.7.9/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/wx-3.0-osx_cocoa" />
+        <root url="file:///usr/local/lib/python2.7/site-packages" />
+        <root url="file:///usr/local/lib/python2.7/site-packages/wx-3.0-osx_cocoa" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/python_stubs/1300370370" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
