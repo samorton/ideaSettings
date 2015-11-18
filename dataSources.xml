@@ -1,0 +1,35 @@
+<application>
+  <component name="dataSourceStorage" format="xml">
+    <data-source source="LOCAL" name="CDDUKSP8" uuid="0a0e2aa5-05dd-4355-98b3-ca7bd4ebdb86">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//clduksp1.cd8.cloud.betfair:1521/clduksp1</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="CDDUKSP7" uuid="5c5c5ca6-412a-489d-a6f5-43b4227a7237">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//devescdb004-prodip1.dev.betfair:1521/cdduksp7</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="CDDUKTR7" uuid="8dd018d7-5480-4884-a5a6-e7c7f5b0797c">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//devescdb004-prodip1.dev.betfair:1521/cdduktr7</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="NXT: Sportex" uuid="691b8a77-f46d-470b-80a7-ecfdec791611">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//nlduksp1-db-vip.nxt.betfair:1521/NLDUKSP1</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="NXT: TRADING" uuid="fb5ce4a0-9e9c-44be-bcf9-faaa8229d797">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//nlduktr1-db-vip.nxt.betfair:1521/NLDUKTR1</jdbc-url>
+    </data-source>
+  </component>
+</application>
