@@ -1,0 +1,63 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Console.TableResult.Reload" />
+  <action id="CopyElement" />
+  <action id="Debugger.ResumeThread">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="Debugger.Tree.AddToWatches">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="ForceStepOver">
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="GotoNextError" />
+  <action id="GuiDesigner.EditComponent" />
+  <action id="GuiDesigner.EditGroup" />
+  <action id="RecentFiles" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Replace" />
+  <action id="Run" />
+  <action id="Servers.DeployWithDebug">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="ShowBookmarks" />
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ToggleBookmark" />
+  <action id="UML.ApplyCurrentLayout" />
+  <action id="UsageView.ShowRecentFindUsages" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="XDebugger.Inspect">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
+</keymap>
