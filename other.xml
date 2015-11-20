@@ -1,4 +1,16 @@
 <application>
+  <component name="Configuration">
+    <option name="mainSpecFilesMap">
+      <map>
+        <entry key="boardCtrl.js" value="$USER_HOME$/code/training/angular/angularAppDevelopment/noterious/src/app/boards/boardCtrlSpec.js" />
+      </map>
+    </option>
+    <option name="moduleNameSuggestions">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
     <option name="FORCE_CLASSIC_VM" value="true" />
@@ -62,5 +74,10 @@
       <option name="PATTERN" value="com.ibm.ws.*" />
       <option name="ENABLED" value="true" />
     </filter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="0.12.7" last-modified="1436492101000" />
+    <node-interpreter path="/usr/local/Cellar/node/0.12.5/bin/node" version="0.12.5" last-modified="1435072917000" />
+    <node-interpreter path="/usr/local/Cellar/node/0.12.7/bin/node" version="0.12.7" last-modified="1436492101000" />
   </component>
 </application>
