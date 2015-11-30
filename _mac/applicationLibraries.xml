@@ -2,10 +2,12 @@
   <component name="libraryTable">
     <library name="Python 2.7.10 (/usr/bin/python) interpreter library">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="Python 2.7.9 (/usr/local/bin/python) interpreter library">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
   </component>
