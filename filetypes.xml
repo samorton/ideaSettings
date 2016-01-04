@@ -6,8 +6,8 @@
       <mapping pattern="fsdfds" type="PLAIN_TEXT" />
       <mapping pattern="acceptedHostsList" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="spc" type="SQL" />
       <mapping ext="bdy" type="SQL" />
+      <mapping ext="spc" type="SQL" />
     </extensionMap>
   </component>
 </application>
