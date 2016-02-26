@@ -88,7 +88,7 @@
     </filter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="0.10.41" last-modified="1449242583000" />
+    <node-interpreter path="/usr/local/bin/node" version="0.10.42" last-modified="1455024195000" />
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.9/bin/node" version="0.12.9" last-modified="1449179735000" />
   </component>
 </application>
