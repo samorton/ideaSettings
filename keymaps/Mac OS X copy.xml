@@ -117,5 +117,9 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="ZoomCurrentWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
   <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
 </keymap>
