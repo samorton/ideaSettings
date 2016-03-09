@@ -8,8 +8,8 @@
       <mapping pattern="acceptedHostsList" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
-      <mapping ext="bdy" type="SQL" />
       <mapping ext="spc" type="SQL" />
+      <mapping ext="bdy" type="SQL" />
     </extensionMap>
   </component>
 </application>
