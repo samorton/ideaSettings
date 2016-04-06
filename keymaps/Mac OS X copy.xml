@@ -43,6 +43,7 @@
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
+  <action id="Exit" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt f3" />
     <keyboard-shortcut first-keystroke="ctrl f" />
@@ -64,6 +65,9 @@
   <action id="GotoNextError" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
+  <action id="InspectCode">
+    <keyboard-shortcut first-keystroke="meta q" />
+  </action>
   <action id="QuickChangeScheme" />
   <action id="RecentFiles" />
   <action id="Refactorings.QuickListPopupAction">
