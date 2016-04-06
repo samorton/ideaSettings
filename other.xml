@@ -21,6 +21,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="BuiltInServerOptions" builtInServerAvailableExternally="true" />
   <component name="CodeStyleSchemesUIConfiguration">
     <option name="RECENT_IMPORT_FILE_LOCATION" value="file:$USER_HOME$/code/betfair/yoda/forks/fcn-cxc-cpp/.jscsrc" />
   </component>
