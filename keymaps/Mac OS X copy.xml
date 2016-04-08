@@ -62,7 +62,6 @@
   <action id="ForceStepOver">
     <keyboard-shortcut first-keystroke="shift f10" />
   </action>
-  <action id="GotoNextError" />
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
   <action id="InspectCode">
