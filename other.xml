@@ -11,8 +11,14 @@
       </list>
     </option>
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.9.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.4.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.9/bin/node" />
+  </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="0.10.43" last-modified="1457031025000" />
+    <node-interpreter path="/usr/local/bin/node" version="0.10.44" last-modified="1459469313000" />
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.9/bin/node" version="0.12.9" last-modified="1449179735000" />
   </component>
 </application>
