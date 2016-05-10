@@ -2,6 +2,7 @@
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="CheckinProject" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -65,7 +66,7 @@
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
   <action id="InspectCode">
-    <keyboard-shortcut first-keystroke="meta q" />
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
   <action id="QuickChangeScheme" />
   <action id="RecentFiles" />
