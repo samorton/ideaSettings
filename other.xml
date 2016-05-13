@@ -1,23 +1,4 @@
 <application>
-  <component name="AngularJSConfig">
-    <option name="INSERT_WHITESPACE" value="true" />
-  </component>
-  <component name="AppInspectionProfilesVisibleTreeState">
-    <entry key="Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>AngularJS</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
   <component name="Configuration">
     <option name="mainSpecFilesMap">
       <map>
