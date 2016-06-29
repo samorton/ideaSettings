@@ -128,10 +128,14 @@
     <keyboard-shortcut first-keystroke="meta f8" />
     <keyboard-shortcut first-keystroke="f9" />
   </action>
+  <action id="TypeHierarchy" />
   <action id="UML.ApplyCurrentLayout" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="ZoomCurrentWindow">
     <keyboard-shortcut first-keystroke="ctrl meta equals" />
