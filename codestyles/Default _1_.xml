@@ -1,18 +1,8 @@
 <code_scheme name="Default (1)">
-  <JSCodeStyleSettings>
-    <option name="INDENT_CHAINED_CALLS" value="false" />
-  </JSCodeStyleSettings>
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <codeStyleSettings language="JavaScript">
-    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
-    <option name="IF_BRACE_FORCE" value="3" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
   </codeStyleSettings>
 </code_scheme>
