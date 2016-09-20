@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="69a3c060-b8dc-41b0-a6f5-dd71ae30211c" name="Vagrant (project level)" url="http://192.168.33.10">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
