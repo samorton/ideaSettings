@@ -6,14 +6,15 @@
       <mapping ext="ino" type="C++" />
       <mapping ext="info" type="Ini" />
       <mapping pattern="rolesPermissions" type="JSON" />
-      <mapping ext="profile" type="PHP" />
       <mapping ext="engine" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="test" type="PHP" />
+      <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="acceptedHostsList" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="fsdfds" type="PLAIN_TEXT" />
+      <mapping pattern="acceptedHostsList" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="bdy" type="SQL" />
       <mapping ext="spc" type="SQL" />
