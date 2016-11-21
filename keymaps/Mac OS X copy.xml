@@ -2,6 +2,11 @@
   <action id="$SearchWeb">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
   <action id="CheckinProject" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
@@ -40,6 +45,12 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="shift alt equals" />
   </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+  </action>
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="shift alt 0" />
   </action>
@@ -65,6 +76,11 @@
   </action>
   <action id="ForceStepOver">
     <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
