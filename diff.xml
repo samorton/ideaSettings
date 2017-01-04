@@ -29,6 +29,9 @@
           </option>
         </PlaceSettings>
       </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
   <component name="ExternalDiffSettings">
@@ -53,6 +56,9 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
+        <PlaceSettings />
+      </entry>
+      <entry key="TestsFiledAssertions">
         <PlaceSettings />
       </entry>
     </option>
