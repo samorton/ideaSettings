@@ -78,6 +78,16 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta alt b" />
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="alt u" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="shift alt s" />
+  </action>
   <action id="GuiDesigner.EditComponent" />
   <action id="GuiDesigner.EditGroup" />
   <action id="InspectCode">
@@ -153,5 +163,6 @@
     <keyboard-shortcut first-keystroke="ctrl meta equals" />
     <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
+  <action id="context.save" />
   <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
 </keymap>
