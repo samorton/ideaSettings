@@ -101,6 +101,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="RemoteServers.ChooseServerDeploymentWithDebug">
     <keyboard-shortcut first-keystroke="f5" />
